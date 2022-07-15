@@ -11,8 +11,8 @@
     "clean": "rimraf dist node_modules"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^0.2.1",
-    "astro": "^1.0.0-beta.47",
+    "@astrojs/tailwind": "^0.2.4",
+    "astro": "^1.0.0-beta.72",
     "astro-eleventy-img": "^0.3.2",
     "astro-icon": "^0.7.1",
     "prettier": "2.6.2",
